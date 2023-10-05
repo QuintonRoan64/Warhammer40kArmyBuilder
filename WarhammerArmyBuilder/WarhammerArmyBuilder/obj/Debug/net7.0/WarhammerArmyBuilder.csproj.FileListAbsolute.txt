@@ -289,3 +289,5 @@ C:\Users\Cyber\source\repos\Warhammer40kArmyBuilder\WarhammerArmyBuilder\Warhamm
 C:\Users\Cyber\source\repos\Warhammer40kArmyBuilder\WarhammerArmyBuilder\WarhammerArmyBuilder\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\Cyber\source\repos\Warhammer40kArmyBuilder\WarhammerArmyBuilder\WarhammerArmyBuilder\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\Cyber\source\repos\Warhammer40kArmyBuilder\WarhammerArmyBuilder\WarhammerArmyBuilder\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Cyber\source\repos\Warhammer40kArmyBuilder\WarhammerArmyBuilder\WarhammerArmyBuilder\bin\Debug\net7.0\SendGrid.dll
+C:\Users\Cyber\source\repos\Warhammer40kArmyBuilder\WarhammerArmyBuilder\WarhammerArmyBuilder\bin\Debug\net7.0\StarkbankEcdsa.dll
